@@ -1,4 +1,5 @@
 
+## Python 3.10.12
 ## Start zookeeper & kafka
 
 `docker-compose up -d`
